@@ -1,0 +1,105 @@
+.navSection .search-input {
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  padding: 5px;
+  background-color: rgb(233, 232, 232);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+}
+.bannerSection,
+.categories,
+.shoesSection {
+  margin-top: 3rem;
+}
+.carousel-item {
+  background-color: #feeae9;
+  padding: 0.5rem 2rem;
+}
+
+.carousel-item img {
+  width: 80%;
+}
+
+.carousel-item h2 {
+  color: #ff136f;
+}
+.carousel-item h1,
+.carousel-item p,
+.carousel-item h2,
+.carousel-item button {
+  margin-left: 3rem;
+}
+.carousel-item button {
+  border: none;
+  width: 7rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #ff589b, #ff136f);
+  font-weight: 700;
+  color: white;
+}
+
+.categories .watch {
+  background-image: linear-gradient(to right bottom, #ff9c35, #ffd019);
+}
+.categories .bag {
+  background-image: linear-gradient(to right bottom, #ff589b, #ff136f);
+}
+.categories .shoes {
+  background-image: linear-gradient(to right bottom, #4289ff, #07f8c3);
+}
+.categories .category-box {
+  color: white;
+  width: 25rem;
+  border-radius: 15px;
+}
+
+.shoesSection {
+  background-color: #f8f8f8;
+}
+.shoesSection .card .card-button {
+  width: 7rem;
+  padding: 8px;
+  color: #fff;
+  text-align: center;
+  background-color: #000;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  font-weight: 700;
+}
+.shoesSection .card img {
+  width: 15rem;
+}
+.shoesSection .shoes-card {
+  width: 20rem;
+  border-radius: 15px;
+  margin: auto;
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  background-color: #feeae9;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+footer .container input {
+  width: 50%;
+  margin: auto;
+}
+
+footer .container button {
+  width: 5rem;
+  background-color: #ff136f;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 5px;
+  color: white;
+}
